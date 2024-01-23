@@ -63,6 +63,7 @@ Izbor timova koji ce ucestvovati
 ![image](https://github.com/Dragan321/diplomski_turniri-https-futturniri.azurewebsites.net-/assets/60924925/7fc844d5-4a81-4c97-95d6-eae459cccfb8)
 
 Nakon dodavanja timova mečevi se automatski generišu, pri pregledu mečeva korisnik ima mogućnost dodavanja statistike kao što, a klikom na tipku završi meč, on se označava kao završen i pobjednički tim se automatski prebacuje u sledeću rundu.
+
 ![image](https://github.com/Dragan321/diplomski_turniri-https-futturniri.azurewebsites.net-/assets/60924925/27875d20-e3fe-4575-ad04-2954ce4425ec)
 
 
