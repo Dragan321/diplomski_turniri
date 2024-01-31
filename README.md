@@ -1,9 +1,6 @@
 # Diplomski rad saj za organizaciju turnira
 demo: <https://futturniri.azurewebsites.net>
 
-backend repo:
-
-frontend repo:
 
 ### Koristene tehnologije
 - #### Backend
